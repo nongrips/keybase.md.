@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am nongrips on github.
+  * I am nicsname (https://keybase.io/nicsname) on keybase.
+  * I have a public key ASB7zv4_9UHF_b_MEUCzzQdQZKmX9pdWEs335YLt6F6l3wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207bcefe3ff541c5fdbfcc1140b3cd075064a997f6975612cdf7e582ede85ea5df0a",
+      "host": "keybase.io",
+      "kid": "01207bcefe3ff541c5fdbfcc1140b3cd075064a997f6975612cdf7e582ede85ea5df0a",
+      "uid": "a3b800303d11d73f007056b9a972e819",
+      "username": "nicsname"
+    },
+    "merkle_root": {
+      "ctime": 1568222191,
+      "hash": "a41a25b9187b53ab0d9b90ddfdb34efee9f385d2249ddda555e2f2bab9d7bc9636dba9feb4c65e0c5813d7f4c35a2de4a5065358d15b67aa4c1997c6b120c839",
+      "hash_meta": "86e57e028910f3f5dbd1a2faa9c16aa8e4b3c572343b0d171f450152e1002073",
+      "seqno": 6770973
+    },
+    "service": {
+      "entropy": "KpSHhNeGUD6xihPrLbmmNTpj",
+      "name": "github",
+      "username": "nongrips"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568222243,
+  "expire_in": 504576000,
+  "prev": "c052b5cbfd59db77db7cfcc0c57cf91d8cb52992d36bca63db6c0b2bf5b6feff",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASB7zv4_9UHF_b_MEUCzzQdQZKmX9pdWEs335YLt6F6l3wo](https://keybase.io/nicsname), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge87+P/VBxf2/zBFAs80HUGSpl/aXVhLN9+WC7ehepd8Kp3BheWxvYWTESpcCBcQgwFK1y/1Z23fbfPzAxXz5HYy1KZLTa8pj22wLK/W2/v/EICqlndVUq5XgYUpcB32K+8f4oRNwW7/Ta4Xj2Kcg/vsvAgHCo3NpZ8RAbWDcMGUmxbpXuiw4AhXl9Pxjj06CknLx8YehLHyaKyW+EBFlmDeTpCi1useNpyFkZ1ReTtuTt9zBL9ML8/x3BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIABqEoRBMIQOdpyOayk97hdiUBGKW4QNXxTYnCi2eq+9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/nicsname
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id nicsname
+```
